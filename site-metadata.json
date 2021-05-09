@@ -45,7 +45,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "f",
+                "label": "facebook",
                 "url": "https://www.facebook.com/sabyasachi.sabyasachi/",
                 "style": "icon",
                 "icon_class": "facebook",
