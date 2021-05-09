@@ -57,10 +57,10 @@
       {
         "type": "action",
         "template": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sabyasachi.sabyasachi/",
         "style": "icon",
-        "icon_class": "twitter",
+        "icon_class": "facebook",
         "new_window": true,
         "no_follow": false
       },
