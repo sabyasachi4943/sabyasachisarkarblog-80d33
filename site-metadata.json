@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Fjord Theme",
+  "title": "Sabyasachi Sarkar",
   "palette": "yellow",
   "header": {
     "type": "header",
@@ -68,7 +68,7 @@
         "type": "action",
         "template": "action",
         "label": "Instagram",
-        "url": "https://www.instagram.com/",
+        "url": "https://www.instagram.com/_sabyasachi_sarkar_/",
         "style": "icon",
         "icon_class": "instagram",
         "new_window": true,
@@ -78,7 +78,7 @@
         "type": "action",
         "template": "action",
         "label": "GitHub",
-        "url": "https://github.com/",
+        "url": "https://github.com/sabyasachi4943",
         "style": "icon",
         "icon_class": "github",
         "new_window": true,
@@ -88,19 +88,9 @@
         "type": "action",
         "template": "action",
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/sabyasachisarkar001/",
         "style": "icon",
         "icon_class": "linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "dev",
         "new_window": true,
         "no_follow": false
       }
@@ -109,11 +99,11 @@
   "footer": {
     "type": "footer",
     "template": "footer",
-    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+    "content": "&copy; sabyasachi. All rights reserved. ",
     "links": [
 
     ]
   },
-  "domain": "",
-  "favicon": ""
+  "domain": "https://sabyasachisarkar-blog.netlify.app/",
+  "favicon": "/images/sabyasachi-sarkar.gif"
 }
