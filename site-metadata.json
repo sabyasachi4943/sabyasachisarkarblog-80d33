@@ -75,7 +75,8 @@
                 "label": "LinkedIn",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
+                "new_window": true,
+                "url": "https://www.linkedin.com/in/sabyasachisarkar001/"
             },
             {
                 "type": "action",
