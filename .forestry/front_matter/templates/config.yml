@@ -1,6 +1,6 @@
 ---
 label: Site Configuration
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
@@ -24,7 +24,7 @@ fields:
   config:
     required: true
     source:
-      type: custom
+      type: simple
     options:
     - yellow
     - blue
